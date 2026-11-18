@@ -26,6 +26,9 @@ Total_cost = Tuition_USD + Rent_USD
 - Predictions only work for universities in the dataset.
 - Total cost is tuition + rent only (no visa or insurance).
 
+## Live demo
+- https://study-abroad-cost-estimator-6kjbrs4v64ew4ckndn8shf.streamlit.app
+
 ## Screenshots
 ![Cost estimate](screenshots/estimate.png)
 ![Universities in a city](screenshots/city_universities.png)
